@@ -1,7 +1,7 @@
 {
   "lotto": {
     "(28) ZAMURO": 8,
-    "(00) BALLENA": 6,
+    "(00) BALLENA": 0,
     "(19) CHIVO": 5,
     "(27) PERRO": 5,
     "(32) ARDILLA": 5,
@@ -22,7 +22,7 @@
     "(22) CAMELLO": 3,
     "(14) PALOMA": 2,
     "(29) ELEFANTE": 2,
-    "(20) COCHINO": 2,
+    "(20) COCHINO": 0,
     "(24) IGUANA": 2,
     "(25) GALLINA": 2,
     "(3) CIEMPIES": 0,
@@ -96,7 +96,7 @@
     "(30) CAIMAN": 3,
     "(22) CAMELLO": 2,
     "(13) MONO": 2,
-    "(23) CEBRA": 2,
+    "(23) CEBRA": 0,
     "(17) PAVO": 2,
     "(38) BUFALO": 2,
     "(50) CANARIO": 2,
@@ -113,10 +113,11 @@
     "(66) LOBO": 1,
     "(29) ELEFANTE": 1,
     "(41) CANGURO": 1,
-    "(00) BALLENA": 1,
+    "(00) BALLENA": 0,
     "(36) CULEBRA": 1,
     "(14) PALOMA": 1,
     "(67) AVESTRUZ": 1
   }
 }
+
 
