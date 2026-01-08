@@ -26,7 +26,6 @@
     "(3) CIEMPIES": 2,
     "(31) LAPA": 2,
     "(1) CARNERO": 2,
-    "(27) PERRO": 2,
     "(33) PESCADO": 1,
     "(30) CAIMAN": 1,
     "(18) BURRO": 1,
@@ -37,7 +36,8 @@
     "(2) TORO": 1,
     "(8) RATON": 1,
     "(23) ZEBRA": 1,
-    "(7) PERICO": 1
+    "(7) PERICO": 1,
+    "(27) PERRO": 0
   },
   "guacharo": {
     "(25) GALLINA": 52,
@@ -141,7 +141,6 @@
     "(32) ARDILLA": 2,
     "(6) RANA": 2,
     "(34) VENADO": 2,
-    "(30) CAIMAN": 2,
     "(26) VACA": 2,
     "(2) TORO": 2,
     "(13) MONO": 2,
@@ -156,7 +155,8 @@
     "(12) CABALLO": 1,
     "(28) ZAMURO": 1,
     "(0) DELFIN": 1,
-    "(18) BURRO": 1
+    "(18) BURRO": 1,
+    "(30) CAIMAN": 0
   },
   "selva": {
     "(9) AGUILA": 40,
