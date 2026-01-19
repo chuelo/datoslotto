@@ -28,7 +28,6 @@
     "(31) LAPA": 2,
     "(19) CHIVO": 1,
     "(0) DELFIN": 1,
-    "(6) RANA": 1,
     "(22) CAMELLO": 1,
     "(27) PERRO": 1,
     "(13) MONO": 1,
@@ -37,7 +36,8 @@
     "(9) AGUILA": 1,
     "(25) GALLINA": 1,
     "(1) CARNERO": 1,
-    "(12) CABALLO": 1
+    "(12) CABALLO": 1,
+    "(6) RANA": 0
   },
   "guacharo": {
     "(75) GUACHARO": 62,
