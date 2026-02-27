@@ -106,7 +106,6 @@
     "(36) CULEBRA": 1,
     "(71) GUACAMAYA": 1,
     "(35) JIRAFA": 1,
-    "(43) MARIPOSA": 1,
     "(60) CAMALEON": 1,
     "(15) ZORRO": 1,
     "(34) VENADO": 1,
@@ -115,6 +114,7 @@
     "(67) AVESTRUZ": 0,
     "(65) ARANA": 0,
     "(21) GALLO": 0,
+    "(43) MARIPOSA": 0,
     "(18) BURRO": 0,
     "(9) AGUILA": 0
   },
@@ -176,11 +176,10 @@
     "(24) IGUANA": 3,
     "(30) CAIMAN": 3,
     "(14) PALOMA": 2,
-    "(22) CAMELLO": 2,
     "(15) ZORRO": 2,
+    "(22) CAMELLO": 2,
     "(11) GATO": 2,
     "(23) CEBRA": 2,
-    "(26) VACA": 2,
     "(36) CULEBRA": 2,
     "(20) COCHINO": 2,
     "(10) TIGRE": 1,
@@ -194,8 +193,9 @@
     "(31) LAPA": 1,
     "(8) RATON": 0,
     "(0) DELFIN": 0,
-    "(16) OSO": 0,
     "(34) VENADO": 0,
+    "(16) OSO": 0,
+    "(26) VACA": 0,
     "(9) AGUILA": 0
   }
 }
