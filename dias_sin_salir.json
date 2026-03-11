@@ -152,11 +152,11 @@
     "(12) CABALLO": 1,
     "(36) CULEBRA": 1,
     "(13) MONO": 1,
-    "(20) COCHINO": 1,
     "(24) IGUANA": 1,
     "(35) JIRAFA": 1,
     "(7) PERICO": 1,
-    "(31) LAPA": 1
+    "(31) LAPA": 1,
+    "(20) COCHINO": 0
   },
   "selva": {
     "(1) CARNERO": 11,
