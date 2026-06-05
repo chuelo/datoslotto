@@ -32,12 +32,12 @@
     "(22) CAMELLO": 1,
     "(3) CIEMPIES": 1,
     "(11) GATO": 1,
-    "(13) MONO": 1,
     "(27) PERRO": 1,
     "(28) ZAMURO": 1,
     "(18) BURRO": 1,
     "(29) ELEFANTE": 1,
-    "(30) CAIMAN": 1
+    "(30) CAIMAN": 1,
+    "(13) MONO": 0
   },
   "guacharo": {
     "(30) CAIMAN": 22,
