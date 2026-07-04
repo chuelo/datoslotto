@@ -112,10 +112,10 @@
     "(61) PANDA": 1,
     "(22) CAMELLO": 1,
     "(69) CONEJO": 1,
-    "(50) CANARIO": 1,
     "(65) ARANA": 1,
     "(49) PEREZA": 0,
     "(67) AVESTRUZ": 0,
+    "(50) CANARIO": 0,
     "(37) TORTUGA": 0
   },
   "granjita": {
@@ -187,7 +187,6 @@
     "(10) TIGRE": 1,
     "(11) GATO": 1,
     "(6) RANA": 1,
-    "(31) LAPA": 1,
     "(12) CABALLO": 1,
     "(2) TORO": 1,
     "(1) CARNERO": 1,
@@ -196,6 +195,7 @@
     "(32) ARDILLA": 1,
     "(28) ZAMURO": 0,
     "(16) OSO": 0,
+    "(31) LAPA": 0,
     "(00) BALLENA": 0
   }
 }
