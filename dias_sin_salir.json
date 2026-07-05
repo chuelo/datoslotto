@@ -104,7 +104,6 @@
     "(69) CONEJO": 2,
     "(63) CANGREJO": 2,
     "(64) GAVILAN": 2,
-    "(72) GORILA": 1,
     "(50) CANARIO": 1,
     "(67) AVESTRUZ": 1,
     "(65) ARANA": 1,
@@ -115,6 +114,7 @@
     "(1) CARNERO": 1,
     "(2) TORO": 1,
     "(37) TORTUGA": 1,
+    "(72) GORILA": 0,
     "(22) CAMELLO": 0,
     "(32) ARDILLA": 0
   },
@@ -182,7 +182,6 @@
     "(6) RANA": 2,
     "(12) CABALLO": 2,
     "(2) TORO": 2,
-    "(8) RATON": 2,
     "(11) GATO": 2,
     "(32) ARDILLA": 2,
     "(1) CARNERO": 2,
@@ -195,6 +194,7 @@
     "(19) CHIVO": 1,
     "(00) BALLENA": 1,
     "(14) PALOMA": 1,
+    "(8) RATON": 0,
     "(30) CAIMAN": 0,
     "(26) VACA": 0
   }
