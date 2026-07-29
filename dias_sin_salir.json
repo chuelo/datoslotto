@@ -20,7 +20,7 @@
     "(11) GATO": 2,
     "(26) VACA": 2,
     "(9) AGUILA": 2,
-    "(24) IGUANA": 1,
+    "(15) ZORRO": 1,
     "(21) GALLO": 1,
     "(27) PERRO": 1,
     "(6) RANA": 1,
@@ -28,16 +28,16 @@
     "(16) OSO": 1,
     "(35) JIRAFA": 1,
     "(10) TIGRE": 1,
-    "(15) ZORRO": 1,
     "(22) CAMELLO": 0,
     "(32) ARDILLA": 0,
-    "(1) CARNERO": 0,
+    "(24) IGUANA": 0,
     "(25) GALLINA": 0,
     "(31) LAPA": 0,
     "(18) BURRO": 0,
     "(5) LEON": 0,
     "(36) CULEBRA": 0,
-    "(30) CAIMAN": 0
+    "(30) CAIMAN": 0,
+    "(1) CARNERO": 0
   },
   "guacharo": {
     "(36) CULEBRA": 35,
@@ -139,7 +139,6 @@
     "(10) TIGRE": 2,
     "(2) TORO": 2,
     "(9) AGUILA": 2,
-    "(12) CABALLO": 2,
     "(26) VACA": 2,
     "(14) PALOMA": 1,
     "(5) LEON": 1,
@@ -151,6 +150,7 @@
     "(17) PAVO": 0,
     "(18) BURRO": 0,
     "(30) CAIMAN": 0,
+    "(12) CABALLO": 0,
     "(15) ZORRO": 0,
     "(19) CHIVO": 0,
     "(34) VENADO": 0,
@@ -187,7 +187,6 @@
     "(22) CAMELLO": 1,
     "(29) ELEFANTE": 1,
     "(26) VACA": 1,
-    "(9) AGUILA": 1,
     "(20) COCHINO": 1,
     "(23) CEBRA": 0,
     "(21) GALLO": 0,
@@ -196,6 +195,7 @@
     "(34) VENADO": 0,
     "(5) LEON": 0,
     "(16) OSO": 0,
+    "(9) AGUILA": 0,
     "(6) RANA": 0
   }
 }
